@@ -15,7 +15,7 @@ Before using this plugin:
 For help installing, see [Manage Plugins](https://pantheon.io/docs/terminus/plugins/)
 ```
 mkdir -p ~/.terminus/plugins
-composer create-project -d ~/.terminus/plugins pantheon-systems/terminus-d9-preview:~1
+composer create-project -d ~/.terminus/plugins pantheon-systems/terminus-d9-preview:^0.1
 ```
 
 ## Configuration
