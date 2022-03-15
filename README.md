@@ -1,6 +1,8 @@
 # Terminus D9 Preview Plugin
 
 [![CircleCI](https://circleci.com/gh/pantheon-systems/terminus-secrets-plugin.svg?style=shield)](https://circleci.com/gh/pantheon-systems/terminus-secrets-plugin)
+[![Deprecated](https://img.shields.io/badge/Pantheon-Deprecated-yellow?logo=pantheon&color=FFDC28)](https://pantheon.io/docs/oss-support-levels#deprecated)
+
 [![Terminus v2.x Compatible](https://img.shields.io/badge/terminus-v2.x-green.svg)](https://github.com/pantheon-systems/terminus-secrets-plugin/tree/1.x)
 
 Terminus Plugin that will take a Pantheon site that is using Drupal 8.9.x on the `dev` environment, and will create or re-create a "preview-d9" multidev with the latest Drupal 9 release.
